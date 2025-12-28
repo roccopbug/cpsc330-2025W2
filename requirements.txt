@@ -10,9 +10,9 @@ ipython
 graphviz
 jinja2
 lightgbm
-torchvision
-torchaudio
-torch
+#torchvision
+#torchaudio
+#torch
 autograd
 plotly
 wikipedia

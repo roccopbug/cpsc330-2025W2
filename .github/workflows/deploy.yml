@@ -8,11 +8,18 @@ on:
     - main
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
-jobs:
+jobs:   
   deploy-book:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+
+    - name: Free Disk Space (Ubuntu)
+      uses: BRAINSia/free-disk-space@v2
+      with:
+        # this might remove tools that are actually needed,
+        # if set to "true" but frees about 6 GB
+        tool-cache: false
 
     # Install dependencies
     - name: Set up Python 3.12
