@@ -100,8 +100,13 @@ The grading scheme for the course is as follows:
 | Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Midterm 1              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
 | Midterm 2              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
-| Final                  | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
+| Final Exam*            | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
 | Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
+
+**A score of 40% or more in the final exam is required to pass the course.**
+
+If a student does not satisfy the final exam passing requirement, the student will be assigned the lower of their earned course grade or, a maximum overall grade of 45% in the course.
+In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will be earn a maximum grade of 50% in the course.
 
 ### iClicker 
 
