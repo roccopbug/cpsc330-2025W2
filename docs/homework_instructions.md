@@ -8,7 +8,7 @@ Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-stud
 Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2025W2?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
 You can also find the list of released (public) repositories [here](https://github.com/orgs/ubc-cpsc330/repositories).
 
-Once the repository is ready, we'll make an announcement on Piazza.
+Once the repository is ready, we'll make an announcement on Ed Discussion.
 Your homework assignment will generally consist of a Jupyter notebook along with necessary code and data or links to download the data.
 You will have to setup your computer so that you can work on these assignments locally.
 See this document for [setup instructions](setup.md).
@@ -103,7 +103,7 @@ _In exceptional circumstances_ a late submission may be accepted with an academi
 
 ## Updates to assignments
 
-If there are errors or other changes that need to be made to an assignment, we will announce them in a pinned Piazza post.
+If there are errors or other changes that need to be made to an assignment, we will announce them in a pinned Ed post.
 
 ## Citing sources
 

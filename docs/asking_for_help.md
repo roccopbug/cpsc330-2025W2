@@ -1,12 +1,12 @@
 # How to ask for help
 
-We will use Piazza for general questions as well as your specific questions about grades.
+We will use *Ed Discussion* for general questions as well as your specific questions about grades.
 
 Aside from all the standard UBC policies and guidelines, here are some additional points about how you're expected to use these platforms.
 
-## Piazza-specific Q&A guidelines
+## Ed-specific Q&A guidelines
 
-When you post questions on Piazza: 
+When you post questions on Ed: 
 - Do not post offensive or disrespectful content.
 - Do a quick search to make sure your question hasn't already been answered.
   - you can filter by tags like `hw1` or do a keyword search
@@ -25,17 +25,17 @@ When you post questions on Piazza:
       - Include the exact command you used to run the code.
       - Include the entire error traceback, or at the very least the part showing the line number and error message.  
 - If you post a question and then figure out the answer yourself, please do not delete the question. It's still useful. Ideally, you'd post the answer to your own question for others to benefit.     
-- When using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
+- When using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Ed.
 
 ## General questions
 
-For general questions, use Piazza and post to **the entire class** so that other students benefit from the discussion.  
+For general questions, use Ed and post to **the entire class** so that other students benefit from the discussion.  
 
 ## Specific questions 
-- For questions involving your specific implementation of a homework question either use tutorials or office hours or post on Piazza to the instructors only. Before posting your specific question, think about whether other people in the class are likely to benefit from your question or not. If yes, formulate your specific question as a general question and post it to the entire class.  
+- For questions involving your specific implementation of a homework question either use tutorials or office hours or post on Ed to the instructors only. Before posting your specific question, think about whether other people in the class are likely to benefit from your question or not. If yes, formulate your specific question as a general question and post it to the entire class.  
 - Include a link to the file you want us to review, and a brief explanation.
   - If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). You can also link to a range of lines, like `#L9-L17` to highlight lines 9-17. See, for example, [this link](https://github.com/mgelbart/rhomboid/blob/master/src/run_tests.py#L9-L17).
   
 ## Grading-related questions  
-- For general questions about your grade, check Piazza to see if we posted a list of who graded which questions. If so, you can just send a message on piazza to the person from the teaching team who graded it. If you don't get a timely response (a couple days), then send it to all instructors, which you can do by typing **instructors** in the post to field. Clearly mention the name of the assignment, your name and student number, and explain your concern. If you wish to challenge a grade, please refer to [this page](https://github.com/UBC-CS/cpsc330-2025W2/blob/main/docs/grades.md).  
+- For general questions about your grade, check Ed to see if we posted a list of who graded which questions. If so, you can just send a message on piazza to the person from the teaching team who graded it. If you don't get a timely response (a couple days), then send it to all instructors, which you can do by typing **instructors** in the post to field. Clearly mention the name of the assignment, your name and student number, and explain your concern. If you wish to challenge a grade, please refer to [this page](https://github.com/UBC-CS/cpsc330-2025W2/blob/main/docs/grades.md).  
 
